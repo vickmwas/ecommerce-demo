@@ -5,8 +5,7 @@ const headers = {
   Authorization: `Bearer ${window.localStorage.getItem("token")}`,
 };
 const axiosConfig = {
-  baseURL: "https://wingi-api.herokuapp.com/",
-  // baseURL: "http://wingi-api.test/api",
+  baseURL: "https://wingi-api.herokuapp.com/api",
   headers: headers,
 };
 const apiClient: AxiosInstance = axios.create(axiosConfig);
