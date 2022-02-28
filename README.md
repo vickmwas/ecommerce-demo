@@ -38,3 +38,14 @@ yarn run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 yarn run lint
 ```
+
+# Project Demo
+
+You can create your credentials on the account below:
+
+
+URL: https://wingi-ecommerce-demo.netlify.app/register
+
+
+A Video Walkthrough of the Project Can be found on the following link:
+https://drive.google.com/file/d/1sP0m0voaZrXf9UlNcoHdFWNWerEeLwFY/view?usp=sharing
