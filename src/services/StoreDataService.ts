@@ -10,7 +10,7 @@ class StoreDataService {
     return http.get("/products");
   }
   getMyProducts(): Promise<any> {
-    return http.get("/products");
+    return http.get("/products/my");
   }
   uploadImage(image: any): Promise<any> {
     return http.post("/products/image/upload", image );
