@@ -44,7 +44,7 @@ yarn run lint
 You can create your credentials on the account below:
 
 
-URL: https://wingi-ecommerce-demo.netlify.app/register
+URL: https://wingi-ecommerce-demo.netlify.app
 
 
 A Video Walkthrough of the Project Can be found on the following link:
