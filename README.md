@@ -45,7 +45,3 @@ You can create your credentials on the account below:
 
 
 URL: https://wingi-ecommerce-demo.netlify.app
-
-
-A Video Walkthrough of the Project Can be found on the following link:
-https://drive.google.com/file/d/1sP0m0voaZrXf9UlNcoHdFWNWerEeLwFY/view?usp=sharing
